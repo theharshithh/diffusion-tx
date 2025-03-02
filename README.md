@@ -43,6 +43,6 @@ python train.py
 ```
 
 ## Todo:
- - Implement a DiT model
+ - Implement a DiT model keeping this as the reference
  - Implement a scheduler
  - Add visualizations
